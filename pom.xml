@@ -87,8 +87,8 @@
                 <goal>sign</goal>
             </goals>
             <configuration>
-                <keyname>993284BC196E9E5EF2FCFC7E22686010B2F079B5</keyname>
-                <passphraseServerId>123</passphraseServerId>
+                <keyname>${gpg.keyname}</keyname>
+                <passphraseServerId>${gpg.passphrase}</passphraseServerId>
             </configuration>
         </execution>
     </executions>
