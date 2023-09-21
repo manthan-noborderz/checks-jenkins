@@ -143,10 +143,38 @@
 </distributionManagement>
 
 	<scm>
-    <connection>scm:git:git://github.com/kgsnipes/unum.git</connection>
-    <developerConnection>scm:git:git@github.com:kgsnipes/unum.git</developerConnection>
-    <url>https://github.com/kgsnipes/unum</url>
+    <connection>scm:git:git://github.com/manthan-noborderz/checks-jenkins.git</connection>
+    <developerConnection>scm:git:git@github.com:manthan-noborderz/checks-jenkins.git</developerConnection>
+    <url>https://github.com/manthan-noborderz/checks-jenkins</url>
     <tag>HEAD</tag>
 </scm>
+
+	<name>
+    checks-jenkins
+</name>
+
+	<description>
+		checks-jenkins
+    </description>
+	<url>
+    https://github.com/manthan-noborderz/checks-jenkins
+</url>
+
+	<licenses>
+    <license>
+        <name>MIT License</name>
+        <url>https://github.com/manthan-noborderz/checks-jenkins/blob/main/LICENSE</url>
+    </license>
+</licenses>
+
+	<developers>
+    <developer>
+        <name>leoftw</name>
+        <email>leoftw1111@outlook.com</email>
+        <roles>
+            <role>developer</role>
+        </roles>
+    </developer>
+</developers>
 
 </project>
