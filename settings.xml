@@ -43,6 +43,16 @@
     <password>TestFTW@11111</password>
     
    </server>
+    <server>
+        <id>snapshots</id>
+        <username>leoftw</username>
+        <password>TestFTW@11111</password>
+    </server>
+    <server>
+        <id>release</id>
+        <username>leoftw</username>
+        <password>TestFTW@11111</password>
+    </server>
     
   </servers>
     
