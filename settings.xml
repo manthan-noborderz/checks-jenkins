@@ -1,0 +1,49 @@
+<settings xmlns="https://maven.apache.org/SETTINGS/1.0.0"
+
+  xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+
+  xsi:schemaLocation="https://maven.apache.org/SETTINGS/1.0.0
+
+                      https://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+<profiles>
+
+<profile>
+
+<id>ossrh</id>
+
+<activation>
+
+<activeByDefault>true</activeByDefault>
+
+</activation>
+
+<properties>
+
+<gpg.keyname>993284BC196E9E5EF2FCFC7E22686010B2F079B5</gpg.keyname>
+
+<gpg.passphrase>123</gpg.passphrase>
+
+</properties>
+
+</profile>
+
+</profiles>
+
+ 
+
+<servers>
+
+  <server>
+  
+    <id>ossrh</id>
+    
+    <username>leoftw</username>
+    
+    <password>TestFTW@11111</password>
+    
+   </server>
+    
+  </servers>
+    
+ </settings>
