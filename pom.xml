@@ -8,8 +8,8 @@
 		<version>2.7.10-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>sarvesh</artifactId>
+	<groupId>io.github.manthan-noborderz</groupId>
+	<artifactId>maven-space-arithmetic</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	
 	<properties>
